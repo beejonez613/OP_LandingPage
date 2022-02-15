@@ -1,0 +1,116 @@
+.container-1 {
+    background-color: #1f2937;
+    color: white;
+    padding: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.header {
+    display: flex;
+
+}
+
+ul {
+    display: inline-flex;
+    list-style: none;
+    font-size: 2em;
+    gap: 2em;
+
+}
+
+h1 {
+    font-size: 3em;
+    font-family: cursive;
+    margin-right: 30%;
+    color: rgba(163, 33, 177);
+}
+
+p {
+    text-align: left;
+}
+
+.main-1 {
+    padding: 60px;
+    margin: 25px;
+    align-items: center;
+}
+
+h2 {
+    font-size: 3em;
+}
+
+img {
+    width: 550px;
+    height: auto;
+    float: right;
+    flex-direction: row;
+}
+
+button {
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: rgb(61, 143, 236);
+    font-size: 20px;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    font-size: 36px;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    padding: 50px;
+}
+
+.container-3 {
+    background-color: #e5e7eb;
+    padding: 50px;
+
+}
+
+blockquote {
+    font-size: 36px;
+    justify-content: center;
+}
+
+cite {
+    float: right;
+    font-size: 36px;
+}
+
+.row {
+    padding: 65px;
+}
+
+.col-md-10 {
+    position: relative;
+    
+}
+
+.content {
+    border: 2px solid white;
+    border-radius: 5px;
+    background-color: rgb(61, 143, 236);
+    color: white;
+    font-size: 36px;
+
+}
+small {
+    font-size: 20px;
+}
+
+.footer {
+    padding: 55px;
+    background-color: rgb(2, 2, 49);
+    color: white;
+}
+
+h4 {
+    text-align: center;
+}
